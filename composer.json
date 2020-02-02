@@ -2,7 +2,7 @@
     "name": "ecomteck/module-mobile-detect",
     "description": "Ecomteck MobileDetect Module",
     "type": "magento2-module",
-    "version": "1.9.2",
+    "version": "1.0.0",
     "license": [
         "OSL-3.0",
         "AFL-3.0"
